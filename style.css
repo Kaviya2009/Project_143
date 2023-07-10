@@ -1,0 +1,55 @@
+.heading
+{
+    width: 100%;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start,#status
+{
+   font-size: 20px;
+}
+
+#restart
+{
+    font-size: 16px;
+}
+
+h4
+{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+    text-align: center;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(46, 21, 104);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 10px;
+}
